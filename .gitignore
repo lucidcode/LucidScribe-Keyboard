@@ -1,6 +1,8 @@
 # Build and Object Folders
 bin/
 obj/
+debug/
+release/
 
 #User Specific Files
 *.user
